@@ -4,7 +4,7 @@ So, I created my first game ever which is pong game.
 
 I'm pretty happy with the result, but still there's a few bugs.
 
-Controlls:
+Controls:
 
 Player 1: W / S
 
