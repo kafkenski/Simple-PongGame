@@ -10,8 +10,6 @@ Player 1: W / S
 
 Player 2: ↑ / ↓
 
-Press SPACE to reset the game
-
-The game is played to 3 points.
+The game is played to 3 points, afterwards you can reset the game by pressing SPACE.
 
 ![Alt Text](https://s5.ezgif.com/tmp/ezgif-5fdc2635eae114.gif))
